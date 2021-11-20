@@ -11,7 +11,12 @@
 
   <div style="align:center"> 
    <h1 align="center"> 
-     <div class="tenor-gif-embed" data-postid="14692168" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/pain-naruto-serious-stare-gif-14692168">Pain Naruto GIF</a>from <a href="https://tenor.com/search/pain-gifs">Pain GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+     
+     
+   ![pain-naruto](https://user-images.githubusercontent.com/69068301/142723753-d3205660-93e3-4c8f-95d3-9766dd3dafbf.gif)
+
+     
+     
       <img src=https://i.gifer.com/F9f.gif width=30%> 
     </h1>
   </div>
