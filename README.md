@@ -17,7 +17,6 @@
 
      
      
-      <img src=https://i.gifer.com/F9f.gif width=30%> 
     </h1>
   </div>
 
