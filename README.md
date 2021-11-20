@@ -7,8 +7,8 @@
   <div style="align:center"> 
   
  <!-- <h3 align="center"> <img src= https://user-images.githubusercontent.com/69068301/142733943-bcdae070-7c70-4a0d-bcd6-58f5b5727089.gif width=25% </h3> -->
-   <h3 align="center"> <img src= https://github-readme-stats.vercel.app/api?username=Paramee0598&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave></h3>
- <h1 align="center"> <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=Paramee0598&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave></h1>
+   <h3 align="center"> <img src= https://github-readme-stats.vercel.app/api?username=Paramee0598&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave width=40%></h3>
+ <h1 align="center"> <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=Paramee0598&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave width=40%></h1>
 <h1 align="center">  
   
  ![pain-naruto](https://user-images.githubusercontent.com/69068301/142732553-a74f8147-4283-47e2-a4cb-fec850388b3a.gif)
