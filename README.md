@@ -6,7 +6,7 @@
 
   <div style="align:center"> 
    <h1 align="center"> 
-     <img src=  https://github-readme-stats.vercel.app/api?username=Paramee0598&theme=radical&show_icons=true_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave> 
+     <img src=  https://github-readme-stats.vercel.app/api/pin/?username=Paramee0598&repo=github-readme-stats&cache_seconds=86400&theme=synthwave> 
      <img src= https://github-readme-stats.vercel.app/api?username=Paramee0598&theme=radical&show_icons=true > 
  
   </h1>
