@@ -7,6 +7,12 @@
   <div style="align:center"> 
    <h1 align="center"> 
      <img src= https://github-readme-stats.vercel.app/api?username=Paramee0598&theme=radical&show_icons=true > </h1>
+  synthwave: {
+    title_color: "e2e9ec",
+    icon_color: "ef8539",
+    text_color: "e5289e",
+    bg_color: "2b213a",
+  }
   </div>
 
   <div style="align:center"> 
