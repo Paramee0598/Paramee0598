@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> I'm Beaton But you can Call Me Tong 👻 </h1>
+  <h1 align="center"> I'm "Beaton" But you can call me "Tong" 👻 </h1>
 
 
   <h2 align="center"> 🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇 </h2>
