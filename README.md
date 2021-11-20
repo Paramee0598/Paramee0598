@@ -12,7 +12,7 @@
   <div style="align:center"> 
    <h1 align="center"> 
                    
-   <img src=https://i.gifer.com/F9f.gif 
+   <img src=https://i.gifer.com/F9f.gif> 
   </h1>
   </div>
 
