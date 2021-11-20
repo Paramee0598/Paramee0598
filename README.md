@@ -1,5 +1,6 @@
 <p align="center">
-  <h1 align="center"> 𝐻𝒾!!! 𝐼'𝓂 "𝐵𝑒𝒶𝓉𝑜𝓃" 𝐵𝓊𝓉 𝓎𝑜𝓊 𝒸𝒶𝓃 𝒸𝒶𝓁𝓁 𝓂𝑒 "𝒯𝑜𝓃𝑔" </h1>
+  <h2 align="center"> 🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇 </h2>
+  <h1 align="center">  𝐼'𝓂 "𝐵𝑒𝒶𝓉𝑜𝓃" 𝐵𝓊𝓉 𝓎𝑜𝓊 𝒸𝒶𝓃 𝒸𝒶𝓁𝓁 𝓂𝑒 "𝒯𝑜𝓃𝑔" </h1>
   <h2 align="center"> 🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇 </h2>
   
   <h3 align="center"> <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%>   <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%>  <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%> <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%>  <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%></h3>
@@ -19,5 +20,5 @@
    <h3 align="center"> <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%>   <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%>  <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%> <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%>  <img src= https://user-images.githubusercontent.com/69068301/142733554-7d7085d0-86d2-417b-b724-c1ea5d40f409.gif width=19%></h3>
 
   
-  <h2 align="center"> 🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇 </h2>
+
 </p>
