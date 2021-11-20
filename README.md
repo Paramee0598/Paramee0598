@@ -7,12 +7,9 @@
   <div style="align:center"> 
    <h1 align="center"> 
      <img src= https://github-readme-stats.vercel.app/api?username=Paramee0598&theme=radical&show_icons=true > </h1>
-  synthwave: {
-    title_color: "e2e9ec",
-    icon_color: "ef8539",
-    text_color: "e5289e",
-    bg_color: "2b213a",
-  }
+  
+  <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="494" fill="#2b213a" stroke-opacity="1"/>
+
   </div>
 
   <div style="align:center"> 
